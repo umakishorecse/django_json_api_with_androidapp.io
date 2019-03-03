@@ -12,4 +12,4 @@
 10. we can add this ipaddress url to "\jsonparse\app\src\main\java\com\example1\kishore\jsonparse\fetchData" java file
 11. then run your apk to fetch json data from django rest api.
       
-                                                                                      Thankyou
+                                                                                      
